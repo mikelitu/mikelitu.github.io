@@ -11,35 +11,34 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Biomedical Engineering, King's College London, 2024 (expected)
+* M.S. in Healthcare Technologies, King's College London, 2020
+* B.S. in Biomedical Engineering, Universidad Carlos III de Madrid, 2019
+* B.S. in Biomedical Engineering, University of New South Wales, 2019
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Fall 2022 - Spring 2023: Research Assistant in Medical Robotics
+  * Centre for Artificial Intelligence and Robotics Chinese Academy of Science Hong Kong 
+  * Duties includes: Creation of a robotic set up for force and visual data collection. The creation of basic and re-usable templates for soft-tissue simulation in SOFA with haptic feedback.
+  * Supervisor: Hongbin Liu
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2018: Research Assistant
+  * Biocruces Bizkaia
+  * Duties included: Generation of a specific brain map for conditions affecting social skills. Writing and revising exercises and chapters for a book on "Computational Neuroscience"
+  * Supervisor: Jesús M. Cortés Díaz
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python
+  * Pytorch
+  * Image processing
+* SOFA
+  * SOFAPython3
+  * Plugin building
+* C++
+* Rust
 
 Publications
 ======
@@ -59,6 +58,7 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Management
 ======
-* Currently signed in to 43 different slack teams
+* Currently managing 3 group repositories in Github
+* I have lead a software project for the creation of a SOFA simulation scene that was granted a patent
