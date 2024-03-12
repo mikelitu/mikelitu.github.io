@@ -5,7 +5,7 @@ permalink: /publication/dafoes
 excerpt: 'In this paper, we analyse the effectiveness of Vision Transformers and temporal sampling on the estimation of forces in Minimally Invasive Robotic Surgery.'
 date: 2024-01-22
 venue: 'IEEE Robotics and Automation Letters'
-paperurl: 'http://academicpages.github.io/files/dafoes.pdf'
+paperurl: 'http://mikelitu.github.io/files/dafoes.pdf'
 citation: 'Reyzabal, Mikel De Iturrate, et al. "DaFoEs: Mixing Datasets towards the generalization of vision-state deep-learning Force Estimation in Minimally Invasive Robotic Surgery." IEEE Robotics and Automation Letters (2024).'
 ---
 
