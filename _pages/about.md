@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Personal page for Mikel De Iturrate Reyzabal PhD Student for Biomedical Engineering at King's College London"
 author_profile: true
 redirect_from: 
   - /about/
