@@ -57,8 +57,21 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
+
 Management
 ======
-* Currently managing 3 group repositories in Github
+* Currently managing 3 organization repositories on Github
+  1. [HammerLab](https://github.com/HaMMeRLab-KCL)
+  2. [CAIR-CAS Medical Simulations Group](https://github.com/MedSimCair)
+  3. [King's Sofa](https://github.com/kings-sofa)
+
 * I have lead a software project for the creation of a SOFA simulation scene that was granted a patent
+* Manage small groups for demonstration at New Scientist Live 2023 in ExCeL London, where our stand was voted **most popular feature** for second year in a row.
+
+
+Leadership
+=====
+* Part of the KDSA board as the FOLSM representative during the 2021-2022 academic year.
+* As part of the board, we organized socials every month and conference style events throughout the whole academic year.
+* As a result of this work, we won **KCLSU ChangeMakers** of the year 2022.
