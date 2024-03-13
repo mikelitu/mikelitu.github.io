@@ -8,8 +8,6 @@ venue: 'International Journal of Computer Assisted Radiology and Surgery'
 citation: 'Jackson, Benjamin, et al. "Comparative verification of control methodology for robotic interventional neuroradiology procedures." International Journal of Computer Assisted Radiology and Surgery 18.11 (2023): 1977-1986.'
 ---
 
-
-
 ## Purpose
 <div style='text-align: justify;'>
 The use of robotics is emerging for performing interventional radiology procedures. Robots in interventional radiology are typically controlled using button presses and joystick movements. This study identified how different human–robot interfaces affect endovascular surgical performance using interventional radiology simulations.
